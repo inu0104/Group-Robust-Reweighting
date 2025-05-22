@@ -1,4 +1,11 @@
+# 📊 Group-Robust-Reweighting-for-Fraud-Detection-across-Financial-Domains 
 
+This repository provides a unified framework for training **group-robust models on tabular datasets** using various deep learning architectures.  
+The focus is on **binary classification** tasks with **multiple predefined groups**, supporting both standard and fairness-aware training methods.
+
+![Model Overview](./assets/model_overview.png)
+
+*Figure: Overview of the proposed reweighting framework.*
 
 ## 🗂️ Project Structure
 
