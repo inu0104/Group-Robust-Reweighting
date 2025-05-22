@@ -1,4 +1,4 @@
-# 📊 Group-Robust-Reweighting-for-Fraud-Detection-across-Financial-Domains 
+# 📊 Group-Robust Reweighting for Fraud Detection across Financial Domains 
 
 ![Model Overview](./assets/model_overview.png)
 
